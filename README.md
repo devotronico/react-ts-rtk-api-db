@@ -1,5 +1,9 @@
-## React + Typescript + Redux-Toolkit-Api
+## React + Typescript + Redux-Toolkit + Api + Db + Mt
 
 ---
 
-NON usa Material
+- [x] Typescript-Template
+- [x] Redux-Toolkit
+- [x] API
+- [ ] Database
+- [ ] Material
